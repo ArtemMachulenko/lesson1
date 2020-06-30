@@ -40,3 +40,6 @@ export class AppComponent {
 
   }
 }
+
+
+console.log('test');
